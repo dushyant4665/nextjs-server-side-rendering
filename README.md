@@ -22,6 +22,15 @@ To get started with this project, follow these steps:
    cd nextjs-server-side-rendering
 
 
+Install Dependencies
+
+Ensure you have Node.js installed. Then, run:
+npm install
+
+
+or if you prefer using Yarn:
+yarn install
+
 
 
 
