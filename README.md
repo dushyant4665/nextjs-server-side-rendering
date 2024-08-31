@@ -1,3 +1,59 @@
+# Next.js Server-Side Rendering (SSR) model
+
+## Overview
+
+This project is a Next.js application that demonstrates server-side rendering (SSR) capabilities. Next.js is a popular React framework that enables server-side rendering, static site generation, and more. SSR allows you to render pages on the server before sending them to the client, improving performance and SEO.
+
+## Features
+
+- **Server-Side Rendering**: Pages are rendered on the server for faster initial page loads and better SEO.
+- **Dynamic Routing**: Includes support for dynamic routes.
+- **API Routes**: Provides backend functionality within the same application.
+- **Custom Document and App**: Customizes the HTML document structure and application behavior.
+
+## Installation
+
+To get started with this project, follow these steps:
+
+1. **Clone the Repository**
+
+   ```bash
+   https://github.com/dushyant4665/nextjs-server-side-rendering.git
+   cd nextjs-server-side-rendering
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
