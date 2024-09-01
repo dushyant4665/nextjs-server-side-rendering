@@ -22,20 +22,40 @@ To get started with this project, follow these steps:
    cd nextjs-server-side-rendering
 
 
-Install Dependencies
+### Install Dependencies
 
 Ensure you have Node.js installed. Then, run:
+```bash
 npm install
-
+````
 
 or if you prefer using Yarn:
+```bash
 yarn install
+```
+To build and start the production server:
 
+```bash
+npm run build
+npm start
+```
 
+or
 
+```bash
+yarn build
+yarn start
+```
 
+### Configuration
+## Environment Variables
 
+Create a .env.local file in the root of your project and add any required environment variables. Example:
 
+```bash
+DATABASE_URL=your-database-url
+API_KEY=your-api-key
+```
 
 
 
