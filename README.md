@@ -18,7 +18,7 @@ To get started with this project, follow these steps:
 1. **Clone the Repository**
 
    ```bash
-  git clone https://github.com/dushyant4665/nextjs-server-side-rendering.git
+   https://github.com/dushyant4665/nextjs-server-side-rendering.git
    cd nextjs-server-side-rendering
 
 
