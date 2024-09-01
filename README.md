@@ -47,7 +47,7 @@ yarn build
 yarn start
 ```
 
-### Configuration
+#### Configuration
 ## Environment Variables
 
 Create a .env.local file in the root of your project and add any required environment variables. Example:
