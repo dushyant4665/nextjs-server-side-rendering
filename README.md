@@ -15,7 +15,7 @@ This project is a Next.js application that demonstrates server-side rendering (S
 
 To get started with this project, follow these steps:
 
-1. **Clone the Repository**
+1. **Clone the Repository***
 
    ```bash
    https://github.com/dushyant4665/nextjs-server-side-rendering.git
